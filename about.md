@@ -2,14 +2,9 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+### Welcome to my internet place!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I am a writer, researcher, and programmer currently working as a data scientist on the deep learning team at the [AI Foundation](https://aifoundation.com/). 
