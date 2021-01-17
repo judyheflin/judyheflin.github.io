@@ -12,13 +12,13 @@ $darkerGray: #222;
 $darkGray: #333;
 $gray: #666;
 $lightGray: #eee;
-$white: #fff;
+$white: ##F0F0F0;
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
-$monospace: "DejaVu Sans Mono", monospace;
+$mono: "Source Code Pro", Courier, mono;
 
 // Mobile breakpoints
 @mixin mobile {
