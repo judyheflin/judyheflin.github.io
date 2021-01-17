@@ -18,7 +18,11 @@ $white: #F0F0F0;
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
-$mono: "Source Code Pro", Courier, mono;
+
+// google web fonts
+$Serif: 'Roboto Slab', serif;
+$SansSerif: 'Roboto', sans-serif;
+$Monospace: 'Roboto Mono', monospace;
 
 // Mobile breakpoints
 @mixin mobile {
