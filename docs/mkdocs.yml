@@ -4,7 +4,8 @@ site_author: 'Judy Heflin'
 docs_dir: 'contents'
 nav:
 - Home:
-  - About: 'index.md'
+  - Welcome: 'index.md'
+  - About: 'about.md'
 - Books:
   - Computer-Generated Books: 'computer-generated-books.md'
 - Writing: 

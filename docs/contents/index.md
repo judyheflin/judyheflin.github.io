@@ -1,4 +1,4 @@
 # Hello there
 
-🚧🚧🚧 This site is under construction 🚧🚧🚧
+Welcome to Judy Heflin's internet place!
 
