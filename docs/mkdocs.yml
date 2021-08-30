@@ -1,0 +1,55 @@
+site_name: 'Judy Heflin'
+site_description: 'The internet home of Judy Heflin'
+site_author: 'Judy Heflin'
+docs_dir: 'contents'
+nav:
+- Home:
+  - Welcome: 'index.md'
+  - About: 'about.md'
+- Books:
+  - Computer-Generated Books: 'computer-generated-books.md'
+- Writing: 
+  - Writing: 'writing.md'
+extra:
+  social:
+  - icon: 'fontawesome/brands/twitter'
+    link: 'https://twitter.com/judyhefl_in'
+theme:
+  name: 'material'
+  icon:
+    logo: material/cloud
+  favicon: 'assets/images/favicon.png'
+  features:
+  - navigation.tabs
+  - navigation.instant
+  - navigation.top
+  font:
+      text: 'DM Mono'
+      code: 'Roboto Mono'
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+  highlightjs: true
+  hljs_languages:
+  - 'yaml'
+  - 'json'
+  - 'bash'
+markdown_extensions:
+- pymdownx.snippets
+- meta
+- pymdownx.emoji
+- toc:
+    permalink: true
+- admonition
+- codehilite:
+    linenums: False # linenums in codeblock did not play well with numbered list and provided bad experience
+plugins:
+- awesome-pages
