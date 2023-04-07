@@ -3,3 +3,8 @@
 Make changes in the `judy_working_branch` branch and then merge to `main`. 
 
 Changes to main are automatically published using GitHub Actions.
+
+Dependencies:
+- `mkdocs`
+- `mkdocs-blog-plugin`
+- `mkdocs-localsearch`
