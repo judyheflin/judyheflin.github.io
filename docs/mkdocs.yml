@@ -46,6 +46,10 @@ markdown_extensions:
 - pymdownx.snippets
 - meta
 - pymdownx.emoji
+- footnotes
+- admonition
+- pymdownx.details
+- pymdownx.superfences
 - toc:
     permalink: true
 - admonition
