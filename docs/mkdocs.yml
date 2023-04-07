@@ -6,19 +6,26 @@ nav:
 - Home:
   - Welcome: 'index.md'
   - About: 'about.md'
-- Books:
-  - Computer-Generated Books: 'computer-generated-books.md'
+- Reading:
+  - Books: 'books.md'
 - Writing: 
-  - Writing: 'writing.md'
+  - Samples: 'writing.md'
 extra:
   social:
   - icon: 'fontawesome/brands/twitter'
     link: 'https://twitter.com/judyhefl_in'
+  - icon: 'fontawesome/brands/linkedin'
+    link: 'https://www.linkedin.com/in/judyheflin/'
+  - icon: 'fontawesome/brands/github'
+    link: 'https://github.com/judyheflin'
+  analytics:
+    provider: google
+    property: G-QNHFVWTDPT
 theme:
   name: 'material'
   icon:
     logo: material/cloud
-  favicon: 'assets/images/icons8-cloud-48.png'
+  favicon: images/Vector.png
   features:
   - navigation.tabs
   - navigation.instant
@@ -27,16 +34,16 @@ theme:
       text: 'DM Mono'
       code: 'Roboto Mono'
   palette:
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
   highlightjs: true
   hljs_languages:
   - 'yaml'
@@ -57,3 +64,4 @@ markdown_extensions:
     linenums: False # linenums in codeblock did not play well with numbered list and provided bad experience
 plugins:
 - awesome-pages
+- search

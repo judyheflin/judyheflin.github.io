@@ -6,8 +6,6 @@ Judy Heflin is a technical writer from California.
 
 Judy Heflin is a writer, programmer, and researcher interested in the intersection of storytelling and technology. She has worked with companies like Amazon Web Services and AI Foundation to develop and document AI and machine learning services, coordinate research initiatives, and implement emerging technologies into creative and product management workflows. Judy holds an S.M. in Comparative Media Studies from the Massachusetts Institute of Technology and a B.A. in Comparative Literature and Cultures from Yonsei University.
 
-![WFH in ACNH](../images/wfh.jpg)
-
 ## Current Work
 
 * Programmer Writer - AI/ML at [Amazon Web Services](https://aws.amazon.com/)
@@ -23,11 +21,19 @@ Judy Heflin is a writer, programmer, and researcher interested in the intersecti
 
 * AI and Machine Learning
 * Technical Writing
+* Docs-as-Code
 * Generative Text (NLG)
 * Computational Writing Tools
-* AI-Generated Books
+* AI-Generated Literature
 * Creative Coding
 * Narrative Design
+* Fiction
+* Screenwriting
+
+
+
+
+
 
 
 

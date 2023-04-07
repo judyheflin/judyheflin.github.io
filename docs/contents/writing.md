@@ -1,6 +1,7 @@
 # Writing
 
-🚧 This page is under construction 🚧
+!!! note ""
+    🚧 This page is under construction 🚧
 
 [AI-generated literature and the vectorized word](https://dspace.mit.edu/handle/1721.1/127563), 2020
 
