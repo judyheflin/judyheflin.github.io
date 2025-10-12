@@ -1,7 +1,6 @@
 # Writing
 
-!!! note ""
-    🚧 This page is under construction 🚧
+[Generated Literature, The Cambridge Companion to Literature in a Digital Age](https://www.cambridge.org/core/books/cambridge-companion-to-literature-in-a-digital-age/generated-literature/C8372614AD79549CAEA2BE4EA9F9B8EC), 2024
 
 [AI-generated literature and the vectorized word](https://dspace.mit.edu/handle/1721.1/127563), 2020
 

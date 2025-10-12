@@ -8,10 +8,11 @@ Judy Heflin is a writer, programmer, and researcher interested in the intersecti
 
 ## Current Work
 
-* Programmer Writer - AI/ML at [Amazon Web Services](https://aws.amazon.com/)
+* AI Technical Writer at [Modular AI](https://www.modular.com/)
 
 ## Past Work 
 
+* Programmer Writer - AI/ML at [Amazon Web Services](https://aws.amazon.com/)
 * Creative Writing Fellow/Data Scientist at [AI Foundation](https://aifoundation.com/)
 * Editor at [Taper](https://taper.badquar.to/)
 * Research Assistant at [MIT Comparative Media Studies/Writing](https://cmsw.mit.edu/)
@@ -19,10 +20,9 @@ Judy Heflin is a writer, programmer, and researcher interested in the intersecti
 
 ## Interests
 
-* AI and Machine Learning
+* Generative AI
 * Technical Writing
 * Docs-as-Code
-* Generative Text (NLG)
 * Computational Writing Tools
 * AI-Generated Literature
 * Creative Coding

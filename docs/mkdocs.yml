@@ -6,14 +6,12 @@ nav:
 - Home:
   - Welcome: 'index.md'
   - About: 'about.md'
-- Reading:
-  - Books: 'books.md'
+- Recommended reading:
+  - Resources: 'AIresources2025.md'
 - Writing: 
   - Samples: 'writing.md'
 extra:
   social:
-  - icon: 'fontawesome/brands/twitter'
-    link: 'https://twitter.com/judyhefl_in'
   - icon: 'fontawesome/brands/linkedin'
     link: 'https://www.linkedin.com/in/judyheflin/'
   - icon: 'fontawesome/brands/github'
