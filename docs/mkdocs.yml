@@ -6,7 +6,7 @@ nav:
 - Home:
   - Welcome: 'index.md'
   - About: 'about.md'
-- Recommended reading:
+- Reading:
   - Resources: 'AIresources2025.md'
 - Writing: 
   - Samples: 'writing.md'
@@ -61,5 +61,4 @@ markdown_extensions:
 - codehilite:
     linenums: False # linenums in codeblock did not play well with numbered list and provided bad experience
 plugins:
-- awesome-pages
 - search
