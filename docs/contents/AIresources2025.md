@@ -1,8 +1,14 @@
 # **AI IN EDUCATION - RESOURCES 2025**
 
+![Presenting at the UIC 20th Anniversary Symposium on AI, October 2025](images/talkoct2025.jpg)
+
 The following is a list of resources mentioned in my 2025 talk **Creative and Critical Approaches to Writing with LLMs** at Yonsei University’s Underwood International College 20th Anniversary Symposium.
 
 I hope that at least one of these resources can serve as an entry point for your teaching, research, or personal exploration, helping you develop creative and critical approaches to writing with AI.
+
+You can read a recap of the event here:
+- In [Korean](https://news.yonsei.ac.kr/kr/news/detail?bbSeq=35347)
+- In [English](https://news.yonsei.ac.kr/en/news/detail?bbSeq=35347)
 
 ## **AI-Generated Literature**
 
